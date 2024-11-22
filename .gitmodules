@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/chayancm/Project-Management-Api
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/chayancm/-Project-Management-React
